@@ -8,10 +8,6 @@
     <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Coding Animation" width="300" />
 </div>
 
-<div align="center">
-    ![Profile Views](https://komarev.com/ghpvc/?username=amitwasnik1906&color=blue)
-</div>
-
 <h1 align="center">Yo 👋, I'm Amit Wasnik </h1>
 <h3 align="center">A passionate developer from India</h3>
 
